@@ -1,0 +1,14 @@
+{
+    "Simulator Target Bundle": "com.Sendbird.AlertPushNotifications",
+    "aps": {
+        "alert": {
+            "title": "Project Work",
+            "body": "Testing Stream Remote Push Notification"
+        },
+        "sound": "Alert 5",
+        "badge": 50
+    },
+    "duration": "Current time",
+    "startedAt": "Meeting starting time"
+}
+
